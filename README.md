@@ -1,6 +1,6 @@
 # Indaba 2023 technical documentation
 
-Activities
+Highlight of Activities
 - Attended a practical on ML for Bio by Instadeep on Sunday.
 - Worked with Elizaveta et al in delivering the Introduction to Probabilistic Thinking and Programming practical on Monday. [prac outline](probabilistic_prac.jpg)
 - Presented a [poster](https://storage.googleapis.com/indaba-public/poster_Antony_Gitau.pdf) on leveraging Wearable IoT and AI for monitoring rehabilitating patients.
@@ -8,4 +8,5 @@ Activities
 - Made it to the list of Google DeepMind Fireside Chat attendees on multiple career paths in AI on Tuesday.
 - And in the Google Research networking and social event on Wednesday.
 - Also the [MILA](https://mila.quebec/en/) social event on Friday.
+- Took part in the Diffusion prac on Thursday.
   
