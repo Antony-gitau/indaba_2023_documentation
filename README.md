@@ -9,4 +9,7 @@ Highlight of Activities
 - And in the Google Research networking and social event on Wednesday.
 - Also the [MILA](https://mila.quebec/en/) social event on Friday.
 - Took part in the Diffusion prac on Thursday.
+
+other Indaba [tutorials](https://github.com/deep-learning-indaba/indaba-pracs-2023)
+
   
